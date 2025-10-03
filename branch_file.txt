@@ -9,3 +9,6 @@ git merge <source-branch-name>
 
 
 This is test branch 1
+
+
+Some other updates in the text
