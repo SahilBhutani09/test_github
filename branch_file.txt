@@ -8,7 +8,11 @@ git push -u origin <your-branch-name>
 git merge <source-branch-name>
 
 
+<<<<<<< HEAD
 This is test branch 1
 
 
 Some other updates in the text
+=======
+This is test branch 2
+>>>>>>> test_branch_2
